@@ -1,0 +1,29 @@
+{
+  "format": "single-intervention-action-value-v1",
+  "input_width": 512,
+  "members": [
+    "grimmsnarl",
+    "lucario",
+    "crustle",
+    "alakazam"
+  ],
+  "models_per_member": 2,
+  "override_margins": {
+    "alakazam": [
+      3.406867027282715,
+      2.7859110832214355
+    ],
+    "crustle": [
+      1.9839497804641724,
+      1.5772230923175812
+    ],
+    "grimmsnarl": [
+      1.8082010746002197,
+      2.195454776287079
+    ],
+    "lucario": [
+      2.219831869006157,
+      2.67216819524765
+    ]
+  }
+}

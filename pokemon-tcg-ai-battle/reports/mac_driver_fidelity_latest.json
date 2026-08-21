@@ -1,0 +1,199 @@
+{
+  "artifacts_after": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "artifacts_before": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "decision": {
+    "code": "REJECT_DRIVER_FIDELITY",
+    "failed_conditions": [
+      "aggregate_nll_improvement_below_10_percent",
+      "aggregate_agreement_improvement_below_5_points",
+      "member_nll_regression:grimmsnarl",
+      "member_nll_regression:lucario",
+      "member_nll_regression:alakazam",
+      "fewer_than_three_members_improved"
+    ],
+    "passed": false
+  },
+  "decisions": {
+    "held_out": 3542,
+    "train": 9757
+  },
+  "device": "mps",
+  "failures": [],
+  "games": {
+    "collected": 96,
+    "held_out": 24,
+    "train": 72
+  },
+  "metrics": {
+    "v1": {
+      "exact_agreement": 0.674087266251113,
+      "forced_decisions": 173,
+      "members": {
+        "alakazam": {
+          "exact_agreement": 0.6682832201745877,
+          "forced_decisions": 23,
+          "negative_log_probability": 1.096853923495606,
+          "nontrivial_decisions": 1031
+        },
+        "crustle": {
+          "exact_agreement": 0.5654545454545454,
+          "forced_decisions": 23,
+          "negative_log_probability": 1.403613784843285,
+          "nontrivial_decisions": 550
+        },
+        "grimmsnarl": {
+          "exact_agreement": 0.738430583501006,
+          "forced_decisions": 86,
+          "negative_log_probability": 0.8010560529427886,
+          "nontrivial_decisions": 994
+        },
+        "lucario": {
+          "exact_agreement": 0.6763224181360201,
+          "forced_decisions": 41,
+          "negative_log_probability": 1.0171892476824655,
+          "nontrivial_decisions": 794
+        }
+      },
+      "negative_log_probability": 1.0408851160797823,
+      "nontrivial_decisions": 3369
+    },
+    "v2": {
+      "exact_agreement": 0.6527159394479074,
+      "forced_decisions": 173,
+      "members": {
+        "alakazam": {
+          "exact_agreement": 0.6401551891367604,
+          "forced_decisions": 23,
+          "negative_log_probability": 1.2286127105771703,
+          "nontrivial_decisions": 1031
+        },
+        "crustle": {
+          "exact_agreement": 0.5745454545454546,
+          "forced_decisions": 23,
+          "negative_log_probability": 1.414486022232341,
+          "nontrivial_decisions": 550
+        },
+        "grimmsnarl": {
+          "exact_agreement": 0.7183098591549296,
+          "forced_decisions": 86,
+          "negative_log_probability": 0.9408211894831757,
+          "nontrivial_decisions": 994
+        },
+        "lucario": {
+          "exact_agreement": 0.6410579345088161,
+          "forced_decisions": 41,
+          "negative_log_probability": 1.1672614402592778,
+          "nontrivial_decisions": 794
+        }
+      },
+      "negative_log_probability": 1.1595870770985437,
+      "nontrivial_decisions": 3369
+    }
+  },
+  "numpy_parity": {
+    "all_finite": true,
+    "max_option_error": 9.5367431640625e-07,
+    "max_stop_error": 4.76837158203125e-07,
+    "passed": true
+  },
+  "phase_durations_seconds": {
+    "cleanup": 0.0005876250215806067,
+    "collect": 177.9531325409771,
+    "decision": 4.2208004742860794e-05,
+    "held_out": 1.3037316250265576,
+    "preflight": 0.00495691696414724,
+    "split": 7.540977094322443e-06,
+    "train": 89.50155612494564
+  },
+  "phases": [
+    "preflight",
+    "collect",
+    "split",
+    "train",
+    "held_out",
+    "decision",
+    "cleanup"
+  ],
+  "ppo_calls": 0,
+  "raw_replays_written": 0,
+  "seed": 20260804,
+  "storage": {
+    "bytes_written": 21874627,
+    "peak_temporary_bytes": 5471826,
+    "root": "/private/var/folders/fw/56_gnct16cx7xr_9fxnh87ym0000gn/T/pokemon-fidelity-827f17eb0b8a4538b5af18aeae3a25a6",
+    "temp_run_exists_after_cleanup": false
+  },
+  "train_game_ids_overlap_held_out": false,
+  "training": {
+    "v1": {
+      "alakazam": {
+        "all_finite": true,
+        "decisions": 2660,
+        "loss_last": 0.9504446387290955,
+        "parameter_delta_l2": 7.7148587454107584
+      },
+      "crustle": {
+        "all_finite": true,
+        "decisions": 1683,
+        "loss_last": 0.7553843855857849,
+        "parameter_delta_l2": 6.4314097915492505
+      },
+      "grimmsnarl": {
+        "all_finite": true,
+        "decisions": 2999,
+        "loss_last": 0.5693193078041077,
+        "parameter_delta_l2": 8.618331213398962
+      },
+      "lucario": {
+        "all_finite": true,
+        "decisions": 2415,
+        "loss_last": 0.8418731093406677,
+        "parameter_delta_l2": 7.986208791728533
+      }
+    },
+    "v1_updated_members": [
+      "alakazam",
+      "crustle",
+      "grimmsnarl",
+      "lucario"
+    ],
+    "v2": {
+      "alakazam": {
+        "all_finite": true,
+        "decisions": 2660,
+        "loss_last": 1.2363994121551514,
+        "parameter_delta_l2": 8.753628094045427
+      },
+      "crustle": {
+        "all_finite": true,
+        "decisions": 1683,
+        "loss_last": 0.9352231025695801,
+        "parameter_delta_l2": 7.298025977510232
+      },
+      "grimmsnarl": {
+        "all_finite": true,
+        "decisions": 2999,
+        "loss_last": 0.6450749039649963,
+        "parameter_delta_l2": 9.332730423913969
+      },
+      "lucario": {
+        "all_finite": true,
+        "decisions": 2415,
+        "loss_last": 1.0705622434616089,
+        "parameter_delta_l2": 8.781888239280185
+      }
+    },
+    "v2_updated_members": [
+      "alakazam",
+      "crustle",
+      "grimmsnarl",
+      "lucario"
+    ]
+  }
+}

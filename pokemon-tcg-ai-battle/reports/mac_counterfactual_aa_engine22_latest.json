@@ -1,0 +1,227 @@
+{
+  "artifacts_after": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "artifacts_before": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "decision": {
+    "code": "REJECT_COUNTERFACTUAL_ENGINE",
+    "immediate_agreement": 1.0,
+    "passed": false,
+    "reasons": [
+      "terminal agreement 0.666667 is below 0.950000"
+    ],
+    "terminal_agreement": 0.6666666666666666
+  },
+  "elapsed_seconds": 11.227684249985032,
+  "engine_sha256": "7a157f045d333f99d1996d49c12bdbdd148072a619af246385c7295518776e30",
+  "expected_engine_sha256": "7a157f045d333f99d1996d49c12bdbdd148072a619af246385c7295518776e30",
+  "failures": [],
+  "records": [
+    {
+      "branch_order": [
+        0,
+        1
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 125,
+      "left_result": 0,
+      "member": "grimmsnarl",
+      "right_result": 0,
+      "rollout_steps": 137,
+      "sample_index": 0,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        1,
+        0
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 132,
+      "left_result": 1,
+      "member": "grimmsnarl",
+      "right_result": 1,
+      "rollout_steps": 143,
+      "sample_index": 1,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        0,
+        1
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 137,
+      "left_result": 0,
+      "member": "grimmsnarl",
+      "right_result": 1,
+      "rollout_steps": 147,
+      "sample_index": 2,
+      "terminal_score_match": false
+    },
+    {
+      "branch_order": [
+        1,
+        0
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 152,
+      "left_result": 1,
+      "member": "lucario",
+      "right_result": 1,
+      "rollout_steps": 157,
+      "sample_index": 3,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        0,
+        1
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 133,
+      "left_result": 0,
+      "member": "lucario",
+      "right_result": 1,
+      "rollout_steps": 143,
+      "sample_index": 4,
+      "terminal_score_match": false
+    },
+    {
+      "branch_order": [
+        1,
+        0
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 139,
+      "left_result": 0,
+      "member": "lucario",
+      "right_result": 1,
+      "rollout_steps": 148,
+      "sample_index": 5,
+      "terminal_score_match": false
+    },
+    {
+      "branch_order": [
+        0,
+        1
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 149,
+      "left_result": 0,
+      "member": "crustle",
+      "right_result": 1,
+      "rollout_steps": 162,
+      "sample_index": 6,
+      "terminal_score_match": false
+    },
+    {
+      "branch_order": [
+        1,
+        0
+      ],
+      "controlled_coin_choices": 24,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 138,
+      "left_result": 0,
+      "member": "crustle",
+      "right_result": 0,
+      "rollout_steps": 150,
+      "sample_index": 7,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        0,
+        1
+      ],
+      "controlled_coin_choices": 15,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 147,
+      "left_result": 0,
+      "member": "crustle",
+      "right_result": 0,
+      "rollout_steps": 158,
+      "sample_index": 8,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        1,
+        0
+      ],
+      "controlled_coin_choices": 6,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 134,
+      "left_result": 0,
+      "member": "alakazam",
+      "right_result": 0,
+      "rollout_steps": 141,
+      "sample_index": 9,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        0,
+        1
+      ],
+      "controlled_coin_choices": 12,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 151,
+      "left_result": 0,
+      "member": "alakazam",
+      "right_result": 0,
+      "rollout_steps": 156,
+      "sample_index": 10,
+      "terminal_score_match": true
+    },
+    {
+      "branch_order": [
+        1,
+        0
+      ],
+      "controlled_coin_choices": 0,
+      "error": "",
+      "immediate_digest_match": true,
+      "intermediate_digest_mismatches": 10,
+      "left_result": 0,
+      "member": "alakazam",
+      "right_result": 0,
+      "rollout_steps": 13,
+      "sample_index": 11,
+      "terminal_score_match": true
+    }
+  ],
+  "sample_counts": {
+    "alakazam": 3,
+    "crustle": 3,
+    "grimmsnarl": 3,
+    "lucario": 3
+  },
+  "samples_per_member": 3,
+  "storage_root": "/private/var/folders/fw/56_gnct16cx7xr_9fxnh87ym0000gn/T/pokemon-counterfactual-aa-f791d617e8e542b9a9bd8d83957e268a",
+  "temp_exists_after_cleanup": false,
+  "wall_time_seconds": 180
+}

@@ -1,0 +1,321 @@
+{
+  "artifacts_after": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "artifacts_before": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "confirmation": {
+    "candidate_games": 192,
+    "candidate_overrides": 259,
+    "candidate_score": 0.5182291666666666,
+    "delta": 0.059895833333333315,
+    "incumbent_games": 192,
+    "incumbent_score": 0.4583333333333333,
+    "paired_randomness": false,
+    "per_member_delta": {
+      "alakazam": 0.10416666666666667,
+      "crustle": 0.0,
+      "grimmsnarl": 0.08333333333333333,
+      "lucario": 0.052083333333333336
+    },
+    "same_schedule": true
+  },
+  "decision": {
+    "code": "PASS_GROUP_SELFPLAY_MAC",
+    "passed": true,
+    "reasons": []
+  },
+  "device": "cpu",
+  "engine_sha256": "7a157f045d333f99d1996d49c12bdbdd148072a619af246385c7295518776e30",
+  "evaluation_overrides": 259,
+  "failures": [],
+  "peak_temporary_bytes": 0,
+  "phase_durations_seconds": {
+    "balanced_group_audit": 254.20297808304895,
+    "cleanup": 0.0022537080221809447,
+    "preflight": 0.04254520800895989,
+    "retain_confirmed_population": 0.05256012501195073,
+    "round_1_calibration": 51.19309154199436,
+    "round_1_interventions": 27.516474124975502,
+    "round_1_margin_calibration": 0.0451118330238387,
+    "round_1_pretrain": 2.2451227090205066,
+    "round_1_update": 0.06313295796280727,
+    "round_2_calibration": 96.61066158401081,
+    "round_2_interventions": 154.58949466701597,
+    "round_2_margin_calibration": 0.04860241699498147,
+    "round_2_pretrain": 2.0631038330029696,
+    "round_2_update": 0.06003379198955372
+  },
+  "promoted_members": [
+    "grimmsnarl",
+    "lucario",
+    "crustle",
+    "alakazam"
+  ],
+  "raw_replays_written": 0,
+  "retained_population": "agents/single_intervention_mac_pass",
+  "rounds": [
+    {
+      "active_members": [
+        "grimmsnarl",
+        "lucario",
+        "crustle",
+        "alakazam"
+      ],
+      "calibration_games": 48,
+      "comparison": null,
+      "controls": 13,
+      "examples_per_member": {
+        "alakazam": 32,
+        "crustle": 32,
+        "grimmsnarl": 32,
+        "lucario": 32
+      },
+      "intervention_games": 141,
+      "override_margins": {
+        "alakazam": [
+          1.713309645652771,
+          1.8767808079719543
+        ],
+        "crustle": [
+          1.6221778988838196,
+          1.609584629535675
+        ],
+        "grimmsnarl": [
+          1.6504502892494202,
+          1.8972692489624023
+        ],
+        "lucario": [
+          2.00944322347641,
+          2.6262062937021255
+        ]
+      },
+      "pretraining": {
+        "alakazam": {
+          "all_finite": true,
+          "examples": 5116,
+          "loss_last": 0.23404283821582794,
+          "parameter_delta_l2": [
+            5.124454297943485,
+            4.951375194934462
+          ],
+          "updates": 320
+        },
+        "crustle": {
+          "all_finite": true,
+          "examples": 2930,
+          "loss_last": 0.4493597745895386,
+          "parameter_delta_l2": [
+            3.026635350044588,
+            3.022828508393781
+          ],
+          "updates": 184
+        },
+        "grimmsnarl": {
+          "all_finite": true,
+          "examples": 2120,
+          "loss_last": 0.7535454034805298,
+          "parameter_delta_l2": [
+            2.310564467958799,
+            2.2857498028400487
+          ],
+          "updates": 134
+        },
+        "lucario": {
+          "all_finite": true,
+          "examples": 3988,
+          "loss_last": 0.2888110876083374,
+          "parameter_delta_l2": [
+            3.6486973768462994,
+            3.6967022408680954
+          ],
+          "updates": 250
+        }
+      },
+      "promoted_members": [
+        "grimmsnarl",
+        "lucario",
+        "crustle",
+        "alakazam"
+      ],
+      "round_index": 1,
+      "updates": {
+        "alakazam": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.6351121664047241,
+          "parameter_delta_l2": [
+            0.4829001408879951,
+            0.47772684021143347
+          ],
+          "updates": 8
+        },
+        "crustle": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.6367275714874268,
+          "parameter_delta_l2": [
+            0.4805148094040004,
+            0.48201610992840743
+          ],
+          "updates": 8
+        },
+        "grimmsnarl": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.6852607727050781,
+          "parameter_delta_l2": [
+            0.4728329128363766,
+            0.4741543558313882
+          ],
+          "updates": 8
+        },
+        "lucario": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.894134521484375,
+          "parameter_delta_l2": [
+            0.47256929845468676,
+            0.47010471966290557
+          ],
+          "updates": 8
+        }
+      }
+    },
+    {
+      "active_members": [
+        "grimmsnarl",
+        "lucario",
+        "crustle",
+        "alakazam"
+      ],
+      "calibration_games": 48,
+      "comparison": null,
+      "controls": 17,
+      "examples_per_member": {
+        "alakazam": 32,
+        "crustle": 32,
+        "grimmsnarl": 32,
+        "lucario": 32
+      },
+      "intervention_games": 145,
+      "override_margins": {
+        "alakazam": [
+          3.406867027282715,
+          2.7859110832214355
+        ],
+        "crustle": [
+          1.9839497804641724,
+          1.5772230923175812
+        ],
+        "grimmsnarl": [
+          1.8082010746002197,
+          2.195454776287079
+        ],
+        "lucario": [
+          2.219831869006157,
+          2.67216819524765
+        ]
+      },
+      "pretraining": {
+        "alakazam": {
+          "all_finite": true,
+          "examples": 7474,
+          "loss_last": 0.2789755165576935,
+          "parameter_delta_l2": [
+            3.7185258999172635,
+            3.686262739365082
+          ],
+          "updates": 468
+        },
+        "crustle": {
+          "all_finite": true,
+          "examples": 2787,
+          "loss_last": 0.3037793040275574,
+          "parameter_delta_l2": [
+            2.4379270199836207,
+            2.408951860113459
+          ],
+          "updates": 176
+        },
+        "grimmsnarl": {
+          "all_finite": true,
+          "examples": 2390,
+          "loss_last": 0.15104573965072632,
+          "parameter_delta_l2": [
+            2.1201666003401227,
+            2.0940976336516934
+          ],
+          "updates": 150
+        },
+        "lucario": {
+          "all_finite": true,
+          "examples": 4093,
+          "loss_last": 0.23467551171779633,
+          "parameter_delta_l2": [
+            2.7345714585860317,
+            2.7538594966271877
+          ],
+          "updates": 256
+        }
+      },
+      "promoted_members": [
+        "grimmsnarl",
+        "lucario",
+        "crustle",
+        "alakazam"
+      ],
+      "round_index": 2,
+      "updates": {
+        "alakazam": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.6499408483505249,
+          "parameter_delta_l2": [
+            0.47008987799304763,
+            0.4704097737582803
+          ],
+          "updates": 8
+        },
+        "crustle": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.7722493410110474,
+          "parameter_delta_l2": [
+            0.4832425978533075,
+            0.48038818434473435
+          ],
+          "updates": 8
+        },
+        "grimmsnarl": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.57447749376297,
+          "parameter_delta_l2": [
+            0.46944994518107985,
+            0.469875861871854
+          ],
+          "updates": 8
+        },
+        "lucario": {
+          "all_finite": true,
+          "examples": 32,
+          "loss_last": 0.8192554712295532,
+          "parameter_delta_l2": [
+            0.4760960182816444,
+            0.4758581274662305
+          ],
+          "updates": 8
+        }
+      }
+    }
+  ],
+  "screening_confirmation": null,
+  "seed": 20260804,
+  "selection": null,
+  "storage_quota_bytes": 134217728,
+  "storage_root": "/private/var/folders/fw/56_gnct16cx7xr_9fxnh87ym0000gn/T/pokemon-single-intervention-d9978dd1adaa4461b33e01f1d24b41c2"
+}

@@ -1,0 +1,41 @@
+.DS_Store
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/.ipynb_checkpoints/
+
+# Kaggle data and externally downloaded datasets are intentionally excluded
+# from this public repository. Download them with each project README.
+**/data/raw/*
+!**/data/raw/.gitkeep
+**/data/external/*
+!**/data/external/.gitkeep
+
+# Local experiment outputs and Kaggle submissions.
+**/submissions/*
+!**/submissions/.gitkeep
+**/leaderboard/*
+!**/leaderboard/.gitkeep
+**/logs/*
+!**/logs/.gitkeep
+**/public_notebooks/**/*.zip
+**/public_notebooks/**/kernel.json
+**/public_notebooks/**/output/
+
+# Downloaded/generated Pokemon TCG sample agents. These are useful locally but
+# are external Kaggle artifacts, not repo-owned source.
+pokemon-tcg-ai-battle/agents/sample_*/
+
+# Model/cache artifacts.
+**/catboost_info/
+**/*.cbm
+**/*.pkl
+**/*.joblib
+**/*.npz
+**/ag_models/
+**/AutogluonModels/
+**/lightning_logs/
+**/.pytorch_lightning_cache/
+
+# Local isolated development worktrees.
+.worktrees/

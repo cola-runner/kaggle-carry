@@ -1,0 +1,2166 @@
+{
+  "ancestry_results": [
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:grimmsnarl",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:lucario",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:crustle",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:crustle",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:crustle",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "grimmsnarl",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:lucario",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:lucario",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:crustle",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "lucario",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:grimmsnarl",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:grimmsnarl",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:grimmsnarl",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:grimmsnarl",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:lucario",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:crustle",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:crustle",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "crustle",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:grimmsnarl",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:grimmsnarl",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:lucario",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:lucario",
+      "score": 1.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:crustle",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:alakazam",
+      "score": 1.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 1
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 0
+    },
+    {
+      "member": "alakazam",
+      "opponent": "round_0:alakazam",
+      "score": 0.0,
+      "seat": 1
+    }
+  ],
+  "artifacts_after": {
+    "bytes": 273958070,
+    "files": 620
+  },
+  "bootstrap": {
+    "driver_games": 96,
+    "members": {
+      "alakazam": {
+        "all_finite": true,
+        "decisions": 3586,
+        "loss_last": 0.822292149066925,
+        "parameter_delta_l2": 8.68596823421908
+      },
+      "crustle": {
+        "all_finite": true,
+        "decisions": 2415,
+        "loss_last": 1.088356375694275,
+        "parameter_delta_l2": 7.101896559886778
+      },
+      "grimmsnarl": {
+        "all_finite": true,
+        "decisions": 4136,
+        "loss_last": 0.47491341829299927,
+        "parameter_delta_l2": 9.650578512009801
+      },
+      "lucario": {
+        "all_finite": true,
+        "decisions": 3151,
+        "loss_last": 0.9048150777816772,
+        "parameter_delta_l2": 8.747437672466088
+      }
+    }
+  },
+  "comparison": {
+    "ancestry_games": 64,
+    "ancestry_score": 0.484375,
+    "bootstrap_resamples": 20000,
+    "confidence_high": 0.07421875,
+    "confidence_low": -0.12890625,
+    "delta": -0.02734375,
+    "final_games": 128,
+    "final_score": 0.2265625,
+    "paired_randomness": false,
+    "per_member_delta": {
+      "alakazam": -0.125,
+      "crustle": 0.1875,
+      "grimmsnarl": -0.140625,
+      "lucario": -0.03125
+    },
+    "start_games": 128,
+    "start_score": 0.25390625
+  },
+  "decision": {
+    "code": "REJECT_NO_GROUP_IMPROVEMENT",
+    "passed": false,
+    "reasons": [
+      "judge delta must be at least +0.05 with a positive 95% lower bound"
+    ]
+  },
+  "failures": [],
+  "judge_results": {
+    "final": [
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      }
+    ],
+    "start": [
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.5,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "grimmsnarl",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "lucario",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "crustle",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_kiyotah_a_sample_rule_based_agent_mega_lucario_ex_deck",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_biohack44_beating_the_day_2_new",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 1.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/candidate_alakazam_control_hedge_v0",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 1.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 0
+      },
+      {
+        "member": "alakazam",
+        "opponent": "agents/public_mossarimossari_a_sample_rule_based_agent_dragapult_ex_deck",
+        "score": 0.0,
+        "seat": 1
+      }
+    ]
+  },
+  "phase_durations_seconds": {
+    "ancestry": 66.1585767500219,
+    "bootstrap": 146.6272213329794,
+    "cleanup": 0.00036100001307204366,
+    "decision": 0.025604624999687076,
+    "judges": 113.50689416698879,
+    "preflight": 0.005657541973050684,
+    "round_1": 217.64940250001382,
+    "round_2": 304.1856056249817,
+    "start_gate": 12.409134916961193
+  },
+  "phases": [
+    "preflight",
+    "bootstrap",
+    "start_gate",
+    "round_1",
+    "round_2",
+    "judges",
+    "ancestry",
+    "decision",
+    "cleanup"
+  ],
+  "preflight": {
+    "artifacts_before": {
+      "bytes": 273958070,
+      "files": 620
+    },
+    "config_sha256": "d8dea0fdba1de67fa1afbf848af370f4739765afba41d7a7a9c3cb8c533e1ef2",
+    "dependencies_present": true,
+    "device": "mps",
+    "feature_sha256": "d7e4580e1f9bcae96e2a6387d94edf40470d600d9ce129a0b318b79e94dced96",
+    "model_sha256": "fd516896bd7a2033682c54e5c2445403fae1b6e40df3a8675439af309fa5c16c",
+    "schedule_counts": {
+      "ancestry": 64,
+      "bootstrap": 96,
+      "judges": 256,
+      "round_one": 144,
+      "round_two_current": 144,
+      "round_two_history": 64
+    },
+    "schedule_sha256": "09e778a45b0ccc9bfbfa5730f2d474cf1ec0a0095e2bd5427ebe55db38b887ae"
+  },
+  "retained_population": null,
+  "round_1": {
+    "members": {
+      "alakazam": {
+        "all_finite": true,
+        "decisions": 5402,
+        "loss_last": 0.01986793242394924,
+        "parameter_delta_l2": 0.8163583825285418,
+        "policy_loss_last": -0.004386205226182938,
+        "updates": 44,
+        "value_loss_last": 0.06686003506183624
+      },
+      "crustle": {
+        "all_finite": true,
+        "decisions": 4182,
+        "loss_last": 0.003097943961620331,
+        "parameter_delta_l2": 0.7679321125314347,
+        "policy_loss_last": -0.018661485984921455,
+        "updates": 36,
+        "value_loss_last": 0.06426781415939331
+      },
+      "grimmsnarl": {
+        "all_finite": true,
+        "decisions": 6342,
+        "loss_last": 0.03145263344049454,
+        "parameter_delta_l2": 0.8796197884421714,
+        "policy_loss_last": 0.009377965703606606,
+        "updates": 52,
+        "value_loss_last": 0.05375988781452179
+      },
+      "lucario": {
+        "all_finite": true,
+        "decisions": 5298,
+        "loss_last": 0.10576611012220383,
+        "parameter_delta_l2": 0.8248919608894787,
+        "policy_loss_last": 0.06677954643964767,
+        "updates": 44,
+        "value_loss_last": 0.09305581450462341
+      }
+    },
+    "updated_members": [
+      "alakazam",
+      "crustle",
+      "grimmsnarl",
+      "lucario"
+    ]
+  },
+  "round_2": {
+    "members": {
+      "alakazam": {
+        "all_finite": true,
+        "decisions": 7039,
+        "loss_last": -0.039434004575014114,
+        "parameter_delta_l2": 0.8791026305544388,
+        "policy_loss_last": -0.06858114153146744,
+        "updates": 56,
+        "value_loss_last": 0.07378862798213959
+      },
+      "crustle": {
+        "all_finite": true,
+        "decisions": 5124,
+        "loss_last": 0.5280435681343079,
+        "parameter_delta_l2": 0.7955019342391141,
+        "policy_loss_last": 0.486774206161499,
+        "updates": 44,
+        "value_loss_last": 0.09852885454893112
+      },
+      "grimmsnarl": {
+        "all_finite": true,
+        "decisions": 7934,
+        "loss_last": -0.05597762018442154,
+        "parameter_delta_l2": 0.9608490523321698,
+        "policy_loss_last": -0.08139411360025406,
+        "updates": 64,
+        "value_loss_last": 0.06023428589105606
+      },
+      "lucario": {
+        "all_finite": true,
+        "decisions": 6442,
+        "loss_last": 0.028445526957511902,
+        "parameter_delta_l2": 0.8953421024856038,
+        "policy_loss_last": 0.01458787638694048,
+        "updates": 52,
+        "value_loss_last": 0.04425637796521187
+      }
+    },
+    "updated_members": [
+      "alakazam",
+      "crustle",
+      "grimmsnarl",
+      "lucario"
+    ]
+  },
+  "self_play_audit": {
+    "code": "PASS_SELF_PLAY_AUDIT",
+    "round_one": {
+      "code": "PASS_SELF_PLAY_AUDIT",
+      "current_current_games": 144,
+      "reasons": [],
+      "total_games": 144,
+      "updated_members": [
+        "alakazam",
+        "crustle",
+        "grimmsnarl",
+        "lucario"
+      ],
+      "valid": true
+    },
+    "round_two": {
+      "code": "PASS_SELF_PLAY_AUDIT",
+      "current_current_games": 144,
+      "reasons": [],
+      "total_games": 208,
+      "updated_members": [
+        "alakazam",
+        "crustle",
+        "grimmsnarl",
+        "lucario"
+      ],
+      "valid": true
+    },
+    "valid": true
+  },
+  "start_gate": {
+    "games": 12,
+    "teacher_closed": true
+  },
+  "storage": {
+    "bytes_written": 18612358,
+    "peak_temporary_bytes": 327355,
+    "raw_replays_written": 0,
+    "root": "/private/var/folders/fw/56_gnct16cx7xr_9fxnh87ym0000gn/T/pokemon-league-abf8a728c0074585a960c6c0d7c47267",
+    "temp_run_exists_after_cleanup": false
+  }
+}

@@ -1,0 +1,14 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+kaggle>=1.6
+lightgbm>=4.6
+catboost>=1.2
+xgboost>=2.1
+
+# NN members (used by pytabkit_*.py)
+torch>=2.0
+pytabkit>=2.0
+
+# Optional: AutoGluon (only used by src/autogluon_member.py)
+# autogluon.tabular>=1.5

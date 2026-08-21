@@ -1,0 +1,111 @@
+{
+  "step": 12,
+  "remainingOverageTime": 9.5,
+  "search_begin_input": "SECRET-ENGINE-STATE",
+  "logs": [
+    {
+      "message": "public log"
+    }
+  ],
+  "visualize": {
+    "hidden": true
+  },
+  "current": {
+    "yourIndex": 0,
+    "turn": 3,
+    "turnActionCount": 2,
+    "result": -1,
+    "players": [
+      {
+        "deckCount": 40,
+        "handCount": 2,
+        "hand": [
+          {
+            "id": 1182,
+            "serial": 10
+          },
+          {
+            "id": 7,
+            "serial": 11
+          }
+        ],
+        "prize": [
+          {
+            "id": 648,
+            "serial": 90
+          }
+        ],
+        "discard": [],
+        "active": [
+          {
+            "id": 648,
+            "serial": 20,
+            "hp": 280,
+            "maxHp": 320
+          }
+        ],
+        "bench": []
+      },
+      {
+        "deckCount": 41,
+        "handCount": 3,
+        "hand": [
+          {
+            "id": 999,
+            "serial": 99
+          }
+        ],
+        "prize": [
+          {
+            "id": 998,
+            "serial": 98
+          }
+        ],
+        "discard": [],
+        "active": [
+          {
+            "id": 104,
+            "serial": 30,
+            "hp": 90,
+            "maxHp": 90
+          }
+        ],
+        "bench": [
+          {
+            "id": 112,
+            "serial": 31,
+            "hp": 110,
+            "maxHp": 110
+          },
+          {
+            "id": 112,
+            "serial": 32,
+            "hp": 80,
+            "maxHp": 110
+          }
+        ]
+      }
+    ],
+    "stadium": []
+  },
+  "select": {
+    "type": 0,
+    "context": 0,
+    "minCount": 1,
+    "maxCount": 1,
+    "option": [
+      {
+        "type": 3,
+        "playerIndex": 1,
+        "area": 5,
+        "index": 0
+      },
+      {
+        "type": 3,
+        "playerIndex": 1,
+        "area": 5,
+        "index": 1
+      }
+    ]
+  }
+}

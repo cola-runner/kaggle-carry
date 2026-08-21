@@ -1,0 +1,46 @@
+{
+  "candidate": "candidate_grimmsnarl_imitation_full_v2",
+  "snapshot_id": "20260728T160403Z",
+  "snapshot_cutoff_utc": "2026-07-28T16:04:03.728627Z",
+  "deck_fingerprint": "b8f251a476e7",
+  "teachers": [
+    {
+      "team": "Dominic Peel",
+      "submission_id": "55001357",
+      "snapshot_score": 1153.4
+    },
+    {
+      "team": "LiamK",
+      "submission_id": "55011514",
+      "snapshot_score": 1152.1
+    },
+    {
+      "team": "insuperabilehart",
+      "submission_id": "55035974",
+      "snapshot_score": 1138.4
+    }
+  ],
+  "models_sha256": {
+    "models/main_v1.json": "c48ebe9d8773ac678a02c0f1811e5746e740e930a8fc6b87df93f6e28599cddc",
+    "models/main_v2.json": "4b59938ae8ea9cde7d22545e8ebfb040e5adb7588afd4e32aa1b589963ba3c7f",
+    "models/followup_v1.json": "efd6e21b96d0d4402171e4ddfb288f65678744c905cc31a6dba3c62eb7bff489",
+    "models/followup_v2.json": "6841940d0a89694806c22bf1aba6aa3669659a54ed80772c95da8f1d82c740f1"
+  },
+  "validation": {
+    "main_confident_coverage": 0.500031220730565,
+    "main_confident_accuracy": 0.7938311688311688,
+    "followup_consensus_coverage": 0.9369786189975464,
+    "followup_consensus_accuracy": 0.8414634146341463
+  },
+  "local_engine_safety": {
+    "games": 1000,
+    "crashes": 0,
+    "illegal_actions": 0,
+    "final_600_wins": 324,
+    "final_600_games": 600
+  },
+  "online_submission": {
+    "submitted": false,
+    "reason": "reserved until prospective non-overlapping replay validation"
+  }
+}
